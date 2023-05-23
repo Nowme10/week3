@@ -1,0 +1,13 @@
+HTML accessibility
+   1. Easier to develop and  you get some functionality for free, plus it is arguably easier to understand.
+   2. Better on mobile — semantic HTML is arguably lighter in file size than non-semantic spaghetti code, and easier to make responsive.
+   3. Good for SEO — search engines give more importance to keywords inside headings, links, etc. than keywords included in non-semantic <div>s, etc., so your documents will be more findable by customers.
+
+
+
+   1. Properly use HTML markup
+   2. lnclude succinct, descriptive image alt text
+   3. Consider CAPTCHA options
+   4. Make video content accessible
+   5. Choose accessible color choices
+   6. Ensure the website can be navigated using only a keyboard

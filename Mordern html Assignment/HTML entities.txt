@@ -1,0 +1,10 @@
+HTML Entities
+ans: HTML character entities are used as a replacement of reserved characters in HTML,
+these characters are replaced because some characters are reserved in HTML.
+if you use less than (<) or greater than (>) symbols in your text, the browser can mix them with tags that's why character entities are used in HTML to display reserved characters.
+Examples:
+1)© : copyright (&copy)
+2)& : ampersand (&amp)
+3)® : registered treadmark (&reg)
+4)<  : less than (&it;)
+5) > : greater than (&gt;)

@@ -1,0 +1,10 @@
+HTML 5
+ans: Html 5 is the  newest version of hyper text markup language.The first draft of this version was announced in January 2008
+Features of HTML
+1) It is a very easy and simple language. It can be easily understood and modified.
+2) It is very easy to make an effective presentation with HTML because it has a lot of formatting tags.
+3) It is a markup language, so it provides a flexible way to design web pages along with the text.
+4) In html 5 you can add a link on the web page by using a <a> (anchor tag), so it enhances the internet of the browsing of the user.
+5) in html 5 you can add Graphics, Video, and sound to the web pages which makes it more interactive and attractive.
+
+

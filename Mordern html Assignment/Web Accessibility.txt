@@ -1,0 +1,6 @@
+What is web accessibility?
+ans: Accessibility, aloso known as the ability to access, it means that devices,services, and products are accessible to people with disabilities.Websites have illustrative graphics and images to make the site look appealing or deliver a certain message.for example like screen reader with zoom content, text to speech technology also a aprt of web accessibility.
+
+
+
+There are many assistive  devices which help the people with disabilities like wheelchairs, prostheses, hearing aids, visual aids, and specialized computer software and hardware that increase mobility, hearing, vision, or communication capacities.

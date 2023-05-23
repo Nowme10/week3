@@ -1,0 +1,8 @@
+Tab index: 
+               The HTML tabindex attribute is used to manage keyboard focus. Used wisely, it can effectively handle focus within web widgets. Used unwisely however, the tabindex attribute can destroy the usability of web content for keyboard users.
+
+The tabindex attribute indicates that an element can be focused on, and determines how that focus is handled. It takes an integer (whole number) as a value, and the resulting keyboard interaction varies depending on whether the integer is positive, negative or 0.
+
+To understand why the tabindex attribute has such a powerful effect on usability, it’s necessary to know something of the way keyboard interaction works. A keyboard user will typically move through web content using the tab key, moving from one focusable element to the next in sequential order.
+
+Certain interactive HTML elements like links and form controls are focusable by default. When they’re included in a web page, their sequential order is determined by the source order of the HTML.
